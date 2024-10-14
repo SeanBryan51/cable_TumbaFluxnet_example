@@ -13,6 +13,6 @@ if [ ! -z $RESTART ]; then
     ln -s $RESTART/* input
 fi
 
-if [ ! -z $EXE ]; then
-    ln -s $EXE .
+if [ ! -z $CABLE_EXE ]; then
+    ln -s $CABLE_EXE .
 fi
