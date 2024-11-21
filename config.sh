@@ -6,5 +6,7 @@
 INPUT=(
     "${CABLE_INPUTS}/forcing/TumbaFluxnet.1.3_met.nc"
     "${CABLE_INPUTS}/gridinfo/gridinfo_CSIRO_1x1.nc"
+    "/g/data/rp23/data/no_provenance/casa/pftlookup.csv"
+    "/g/data/rp23/data/modis_phenology_csiro.txt"
 )
 
